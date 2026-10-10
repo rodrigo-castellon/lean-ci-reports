@@ -1,0 +1,18 @@
+{
+  "checks": {
+    "axioms": "not_recorded",
+    "build": "not_recorded",
+    "source": "not_recorded"
+  },
+  "context": "cluster-ci/mating-of-trees-v1",
+  "finished": 1791666779.846,
+  "schema": 1,
+  "sha": "78bdfbfd78ca001f2ce9312ae4cd065783849eb1",
+  "source": "PR #1",
+  "status": "error",
+  "timings_seconds": {
+    "cache_attach": 0.0,
+    "checkout": 0.161,
+    "total": 0.162
+  }
+}
