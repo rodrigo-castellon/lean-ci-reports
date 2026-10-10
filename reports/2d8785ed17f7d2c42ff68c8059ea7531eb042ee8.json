@@ -1,0 +1,50 @@
+{
+  "axioms": {
+    "allowed_foundations": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ],
+    "declarations_reported": 14,
+    "nonstandard_foundations_detected": false,
+    "observed_standard_foundations": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ]
+  },
+  "build_jobs": 23804,
+  "checks": {
+    "axioms": "passed",
+    "build": "passed",
+    "source": "passed"
+  },
+  "context": "cluster-ci/mating-of-trees-v1",
+  "finished": 1791666774.072,
+  "lean_version": "4.34.0-rc2",
+  "rebuilt_jobs": 2,
+  "schema": 1,
+  "sha": "2d8785ed17f7d2c42ff68c8059ea7531eb042ee8",
+  "source": "main",
+  "source_counts": {
+    "blocking": 0,
+    "closure": 15446,
+    "duplicate_ids": 0,
+    "duplicate_names": 0,
+    "files": 15469,
+    "forbidden": 0,
+    "orphans": 24,
+    "untracked": 0
+  },
+  "status": "success",
+  "timings_seconds": {
+    "axiom_audit": 8.371,
+    "cache_attach": 0.0,
+    "checkout": 0.652,
+    "compilation": 12.121,
+    "dependency_cache": 14.546,
+    "source_checks": 38.589,
+    "toolchain": 0.033,
+    "total": 74.319
+  }
+}
