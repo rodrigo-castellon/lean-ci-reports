@@ -1,0 +1,35 @@
+{
+  "build_jobs": 24891,
+  "checks": {
+    "axioms": "not_recorded",
+    "build": "passed",
+    "source": "passed"
+  },
+  "context": "cluster-ci/mating-of-trees-v1",
+  "finished": 1791704616.297,
+  "lean_version": "4.34.0-rc2",
+  "rebuilt_jobs": 224,
+  "schema": 1,
+  "sha": "06b9427f7764f6eb89ab7a15ba648eea713bfcda",
+  "source": "main",
+  "source_counts": {
+    "blocking": 0,
+    "closure": 16533,
+    "duplicate_ids": 0,
+    "duplicate_names": 0,
+    "files": 16556,
+    "forbidden": 0,
+    "orphans": 24,
+    "untracked": 0
+  },
+  "status": "success",
+  "timings_seconds": {
+    "cache_attach": 0.168,
+    "checkout": 0.137,
+    "compilation": 250.277,
+    "dependency_cache": 9.877,
+    "source_checks": 38.476,
+    "toolchain": 0.041,
+    "total": 298.985
+  }
+}
