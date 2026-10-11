@@ -1,5 +1,12 @@
 [
   {
+    "finished": 1791713327.746,
+    "revision": "1239e34f621b978aa543f1a260d72123935c1f7a",
+    "sha": "7a4ab4d94e297e9335cb6ad82d9a49467b61001c",
+    "source": "PR #45",
+    "status": "success"
+  },
+  {
     "finished": 1791713049.653,
     "revision": "f8f81313a0537ed3a412abd705bd846d0142df5a",
     "sha": "afa41a3aa4be8ae9e83126ff93c6d3903e00e74e",
