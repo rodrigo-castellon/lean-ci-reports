@@ -7,13 +7,6 @@
     "status": "superseded"
   },
   {
-    "finished": 1791688748.227,
-    "revision": "5d3ba644d2fbbf9eb388810e9887580115752760",
-    "sha": "2ec5fbfe59f3fc74637f21c101108cac6bbb7005",
-    "source": "PR #31",
-    "status": "error"
-  },
-  {
     "finished": 1791688693.301,
     "revision": "eb40cae16f7c0e9b7d12d56b0e7322301bfe5344",
     "sha": "9d9afa6b01e928c45cd16a939c5d34949df7f08b",
