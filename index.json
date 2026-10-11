@@ -7,6 +7,13 @@
     "status": "failure"
   },
   {
+    "finished": 1791687037.738,
+    "revision": "af6158e9f3af4f81a55873eddd44da204dbabdb6",
+    "sha": "7d3e119ecc7a37b333f9c2c95d11cf83bd84de4a",
+    "source": "PR #31",
+    "status": "superseded"
+  },
+  {
     "finished": 1791686037.05,
     "revision": "4d7e92e16853dad212d58b4c69b8f27a088a7eb6",
     "sha": "41e6cbc926acdccbba22a1556621db03054ee0ac",
