@@ -1,0 +1,10 @@
+{
+  "checks": {},
+  "context": "cluster-ci/mating-of-trees-v1",
+  "finished": 1791688693.301,
+  "schema": 1,
+  "sha": "9d9afa6b01e928c45cd16a939c5d34949df7f08b",
+  "source": "PR #32",
+  "status": "superseded",
+  "timings_seconds": {}
+}
