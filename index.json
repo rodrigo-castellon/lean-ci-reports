@@ -1,5 +1,12 @@
 [
   {
+    "finished": 1791850944.59,
+    "revision": "2f14106b016bb1f50dbea3119a83308bc03ee21c",
+    "sha": "aafa499977d751b6982d65c62684624d6a0e276b",
+    "source": "main",
+    "status": "failure"
+  },
+  {
     "finished": 1791850872.95,
     "revision": "9061325343fefb77f9dcc24ed97abc47134af358",
     "sha": "7f04c60fc60371624df530878ea2b85606a557aa",
@@ -690,13 +697,6 @@
     "revision": "d27890db6127aca9f68730b8b9d29d250bcfee6f",
     "sha": "f33d225f5573a0c99515df77031ef4b9a48e632a",
     "source": "PR #17",
-    "status": "success"
-  },
-  {
-    "finished": 1791666774.072,
-    "revision": "7b46a62cf2c8d88c26bb02a960070846c36af022",
-    "sha": "2d8785ed17f7d2c42ff68c8059ea7531eb042ee8",
-    "source": "main",
     "status": "success"
   }
 ]
